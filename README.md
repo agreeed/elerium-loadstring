@@ -1,7 +1,7 @@
 # Elerium v2 Example, Supports PC and Mobile!
 
-This is a fork of a repository of Elerium v2. This fork allows you to use the script with loadstring.
 ~~Please Copy and paste Library code into ur executor or text editor, Do not use Library code as loadstring as it may not work.~~
+This is a fork of a repository of Elerium v2. This fork allows you to use the script with loadstring.
 
 Here is an example of usage with loadstring.
 Import the library:
