@@ -1,6 +1,13 @@
 # Elerium v2 Example, Supports PC and Mobile!
 
-Please Copy and paste Library code into ur executor or text editor, Do not use Library code as loadstring as it may not work.
+This is a fork of a repository of Elerium v2. This fork allows you to use the script with loadstring.
+~~Please Copy and paste Library code into ur executor or text editor, Do not use Library code as loadstring as it may not work.~~
+
+Here is an example of usage with loadstring.
+Import the library:
+```lua
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/agreeed/elerium-loadstring/main/Library"))()
+```
 
 Create Window Here:
 ```lua
